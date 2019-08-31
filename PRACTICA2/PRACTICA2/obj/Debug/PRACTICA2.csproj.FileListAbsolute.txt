@@ -1,0 +1,13 @@
+c:\users\sistemas\documents\visual studio 2013\Projects\PRACTICA2\PRACTICA2\bin\Debug\PRACTICA2.exe.config
+c:\users\sistemas\documents\visual studio 2013\Projects\PRACTICA2\PRACTICA2\bin\Debug\PRACTICA2.exe
+c:\users\sistemas\documents\visual studio 2013\Projects\PRACTICA2\PRACTICA2\bin\Debug\PRACTICA2.pdb
+c:\users\sistemas\documents\visual studio 2013\Projects\PRACTICA2\PRACTICA2\obj\Debug\PRACTICA2.csprojResolveAssemblyReference.cache
+c:\users\sistemas\documents\visual studio 2013\Projects\PRACTICA2\PRACTICA2\obj\Debug\PRACTICA2.exe
+c:\users\sistemas\documents\visual studio 2013\Projects\PRACTICA2\PRACTICA2\obj\Debug\PRACTICA2.pdb
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\PRACTICA2\PRACTICA2\obj\Debug\PRACTICA2.csprojAssemblyReference.cache
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\PRACTICA2\PRACTICA2\obj\Debug\PRACTICA2.csproj.CoreCompileInputs.cache
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\PRACTICA2\PRACTICA2\obj\Debug\PRACTICA2.exe
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\PRACTICA2\PRACTICA2\obj\Debug\PRACTICA2.pdb
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\PRACTICA2\PRACTICA2\bin\Debug\PRACTICA2.exe.config
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\PRACTICA2\PRACTICA2\bin\Debug\PRACTICA2.exe
+C:\Users\Mery Acevedo\Documents\ciclo2\progra\PRACTICA2\PRACTICA2\bin\Debug\PRACTICA2.pdb
